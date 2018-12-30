@@ -3,6 +3,7 @@
 ## 介绍
 
 本项目是为Docker 构建的 Only Office ＋ nextcloud ，onlyoffice中添加中文字体。
+（如何使用docker构建onlyoffice+nextcloud 请点击这里）
 
 ## 使用方法
 
